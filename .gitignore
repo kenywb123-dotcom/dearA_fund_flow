@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+build/
+*.spec
+*.png
+all_sectors.txt
+industry_all.txt
+*.log
